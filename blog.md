@@ -37,7 +37,7 @@ My initial step was determining who my target audience was for the game. I knew 
 
 Now that I had a sample persona in mind, I next needed to brainstorm about where my Puzzler game would be located. Initially, I thought big, by sketching out two possibilities of a tent and of a giant tree:
 
-![Image of sketches](./images/puzzler-sketches.jpg)
+![Image of sketches](puzzler-sketches.jpg)
 
 However, I decided to keep it simple and instead went with a comfortable little shack in the middle of nowhere, as can be seen in the finished game.
 
@@ -48,11 +48,11 @@ However, I decided to keep it simple and instead went with a comfortable little 
 
 I started by building my shack piece by piece until it seemed large enough not to feel claustrophobic, while also cozy enough to feel secluded. I then added the game orbs, which would be used for the puzzle mechanic; some barrels as decoration; and finally torches on the walls that emitted enough light to give the room a creepy aesthetic.
 
-![Left Side](./screenshots/Stage-1/Screenshot_20170825-222500.png)
+![Left Side](Screenshot_20170825-222500.png)
 
-![Center](./screenshots/Stage-1/Screenshot_20170825-222527.png)
+![Center](Screenshot_20170825-222527.png)
 
-![Right Side](./screenshots/Stage-1/Screenshot_20170825-222537.png)
+![Right Side](Screenshot_20170825-222537.png)
 
 * #### User Test
 Two sample questions I asked in my first test were:
@@ -70,9 +70,9 @@ Two sample questions I asked in my first test were:
 
 In this stage, I tested out my UI for the Start Panel that the user sees at the beginning of the game, as well as my Restart Panel, which the user sees at the end of the game to restart it after completing the puzzle. I essentially verified that the UI of each was clear and that only one would display at a time.
 
-![Start Panel](./screenshots/Stage-2/Screenshot_20170828-221440.png)
+![Start Panel](Screenshot_20170828-221440.png)
 
-![Restart Panel](./screenshots/Stage-2/Screenshot_20170828-221452.png)
+![Restart Panel](Screenshot_20170828-221452.png)
 
 * #### User Test
 The user felt that the panels were clear and thus had no confusion over their usage.
@@ -90,13 +90,13 @@ The user noted that he moved fine through the level and that he didn't feel sick
 
 To conclude Puzzler's development, I finally added the logic to make the orbs light up in a random pattern, which the user has to repeat to beat the puzzle. I also added sound effects on the orbs and panel buttons for feedback and ambient audio for mood. The orbs also change color when the user gazes at them for feedback purposes. Finally, once the user wins the puzzle and clicks on the Restart Panel, he or she transitions back to the starting point again, instead of abruptly being teleported back to it, like in the last iteration of my game.
 
-![Start](./screenshots/final/Screenshot_20170905-020636.png)
+![Start](Screenshot_20170905-020636.png)
 
-![In Shack](./screenshots/final/Screenshot_20170905-020647.png)
+![In Shack](Screenshot_20170905-020647.png)
 
-![Choosing Orb](./screenshots/final/Screenshot_20170905-021421.png)
+![Choosing Orb](Screenshot_20170905-021421.png)
 
-![End](./screenshots/final/Screenshot_20170905-020845.png)
+![End](Screenshot_20170905-020845.png)
 
 * #### User Test
 I lowered the heights of the orbs to bring them down more to eye level, since the user felt he had to crane his neck too much upwards to gaze at the top row of orbs. He felt the panels were too high, as well, so I lowered them a little. I also disabled the orbs when the user beats the puzzle, since he didn't like that when he moved forwards or backwards he traveled directly through them, which seemed odd. I had to agree. I also added music that plays when the player wins.
