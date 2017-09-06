@@ -17,7 +17,7 @@ The player begins at a Start Panel, where he/she clicks on a button to begin. He
 
 My initial step was determining who my target audience was for the game. I knew that my game could potentially be played by anyone from all ages and demographics, but I wanted to focus on who the main group would be and what a typical member would be like. I came up with someone like this:
 
-![Image of Joe Schenkler](./images/persona-student.jpg)
+![Image of Joe Schenkler](persona-student.jpg)
 
 **Name:** Joe Schenkler
 
